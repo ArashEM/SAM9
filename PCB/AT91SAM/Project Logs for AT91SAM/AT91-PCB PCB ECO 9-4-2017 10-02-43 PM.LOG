@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=D15 Pin=R60-1
+Removed Pin From Net: NetName=D14 Pin=R60-2
+Removed Pin From Net: NetName=D13 Pin=R60-3
+Removed Pin From Net: NetName=D12 Pin=R60-4
+Removed Pin From Net: NetName=D11 Pin=R62-1
+Removed Pin From Net: NetName=D10 Pin=R62-2
+Removed Pin From Net: NetName=D9 Pin=R62-3
+Removed Pin From Net: NetName=D8 Pin=R62-4
+Removed Pin From Net: NetName=D7 Pin=R64-1
+Removed Pin From Net: NetName=D6 Pin=R64-2
+Removed Pin From Net: NetName=D5 Pin=R64-3
+Removed Pin From Net: NetName=D4 Pin=R64-4
+Removed Pin From Net: NetName=D3 Pin=R66-1
+Removed Pin From Net: NetName=D2 Pin=R66-2
+Removed Pin From Net: NetName=D1 Pin=R66-3
+Removed Pin From Net: NetName=D0 Pin=R66-4
+Removed Pin From Net: NetName=A17 Pin=U1-80
+Removed Pin From Net: NetName=A16 Pin=U1-81
+Removed Pin From Net: NetName=A14 Pin=U1-83
+Removed Pin From Net: NetName=A13 Pin=U1-84
+Removed Pin From Net: NetName=A11 Pin=U1-86
+Removed Pin From Net: NetName=A10 Pin=U1-87
+Removed Pin From Net: NetName=A9 Pin=U1-88
+Removed Pin From Net: NetName=A8 Pin=U1-89
+Removed Pin From Net: NetName=A7 Pin=U1-92
+Removed Pin From Net: NetName=A6 Pin=U1-93
+Removed Pin From Net: NetName=A5 Pin=U1-94
+Removed Pin From Net: NetName=A4 Pin=U1-95
+Removed Pin From Net: NetName=A3 Pin=U1-96
+Removed Pin From Net: NetName=A2 Pin=U1-97
+Removed Pin From Net: NetName=A1 Pin=U1-98
+Removed Pin From Net: NetName=A0 Pin=U1-99
+Added Pin To Net: NetName=D12 Pin=R60-5
+Added Pin To Net: NetName=D13 Pin=R60-6
+Added Pin To Net: NetName=D14 Pin=R60-7
+Added Pin To Net: NetName=D15 Pin=R60-8
+Added Pin To Net: NetName=D8 Pin=R62-5
+Added Pin To Net: NetName=D9 Pin=R62-6
+Added Pin To Net: NetName=D10 Pin=R62-7
+Added Pin To Net: NetName=D11 Pin=R62-8
+Added Pin To Net: NetName=D4 Pin=R64-5
+Added Pin To Net: NetName=D5 Pin=R64-6
+Added Pin To Net: NetName=D6 Pin=R64-7
+Added Pin To Net: NetName=D7 Pin=R64-8
+Added Pin To Net: NetName=D0 Pin=R66-5
+Added Pin To Net: NetName=D1 Pin=R66-6
+Added Pin To Net: NetName=D2 Pin=R66-7
+Added Pin To Net: NetName=D3 Pin=R66-8
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U1-126
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=U1-125
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetR60_3 Pin=R60-3
+Added Pin To Net: NetName=NetR60_3 Pin=U1-124
+Added Net: Name=NetR60_3
+Added Pin To Net: NetName=NetR60_4 Pin=R60-4
+Added Pin To Net: NetName=NetR60_4 Pin=U1-123
+Added Net: Name=NetR60_4
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U1-122
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=U1-121
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR62_3 Pin=R62-3
+Added Pin To Net: NetName=NetR62_3 Pin=U1-120
+Added Net: Name=NetR62_3
+Added Pin To Net: NetName=NetR62_4 Pin=R62-4
+Added Pin To Net: NetName=NetR62_4 Pin=U1-119
+Added Net: Name=NetR62_4
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=U1-118
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=U1-112
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR64_3 Pin=R64-3
+Added Pin To Net: NetName=NetR64_3 Pin=U1-111
+Added Net: Name=NetR64_3
+Added Pin To Net: NetName=NetR64_4 Pin=R64-4
+Added Pin To Net: NetName=NetR64_4 Pin=U1-110
+Added Net: Name=NetR64_4
+Added Pin To Net: NetName=NetR66_1 Pin=R66-1
+Added Pin To Net: NetName=NetR66_1 Pin=U1-109
+Added Net: Name=NetR66_1
+Added Pin To Net: NetName=NetR66_2 Pin=R66-2
+Added Pin To Net: NetName=NetR66_2 Pin=U1-108
+Added Net: Name=NetR66_2
+Added Pin To Net: NetName=NetR66_3 Pin=R66-3
+Added Pin To Net: NetName=NetR66_3 Pin=U1-107
+Added Net: Name=NetR66_3
+Added Pin To Net: NetName=NetR66_4 Pin=R66-4
+Added Pin To Net: NetName=NetR66_4 Pin=U1-106
+Added Net: Name=NetR66_4

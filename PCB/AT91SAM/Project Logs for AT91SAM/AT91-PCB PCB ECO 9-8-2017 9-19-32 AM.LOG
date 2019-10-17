@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C27-2
+Added Component: Designator=C27(C0805)
+Added Component: Designator=R73(CAC-50P205X105-8M)
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C27-2
+Added Pin To Net: NetName=A0 Pin=R73-1
+Added Pin To Net: NetName=A1 Pin=R73-2
+Added Pin To Net: NetName=A2 Pin=R73-3
+Added Pin To Net: NetName=A3 Pin=R73-4
+Added Pin To Net: NetName=NetR73_5 Pin=R73-5
+Added Pin To Net: NetName=NetR73_5 Pin=U1-96
+Added Net: Name=NetR73_5
+Added Pin To Net: NetName=NetR73_6 Pin=R73-6
+Added Pin To Net: NetName=NetR73_6 Pin=U1-97
+Added Net: Name=NetR73_6
+Added Pin To Net: NetName=NetR73_7 Pin=R73-7
+Added Pin To Net: NetName=NetR73_7 Pin=U1-98
+Added Net: Name=NetR73_7
+Added Pin To Net: NetName=NetR73_8 Pin=R73-8
+Added Pin To Net: NetName=NetR73_8 Pin=U1-99
+Added Net: Name=NetR73_8
+Added Member To Class: ClassName=Core Member=Component R73 ChipArray_4x

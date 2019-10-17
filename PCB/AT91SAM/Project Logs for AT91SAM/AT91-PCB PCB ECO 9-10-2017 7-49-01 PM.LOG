@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=ETX0 Pin=R13-1
+Removed Pin From Net: NetName=ETX1 Pin=R13-2
+Removed Pin From Net: NetName=ETXEN Pin=R13-3
+Added Pin To Net: NetName=ETXEN Pin=R13-6
+Added Pin To Net: NetName=ETX1 Pin=R13-7
+Added Pin To Net: NetName=ETX0 Pin=R13-8
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U5-3
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-4
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR13_3 Pin=R13-3
+Added Pin To Net: NetName=NetR13_3 Pin=U5-2
+Added Net: Name=NetR13_3

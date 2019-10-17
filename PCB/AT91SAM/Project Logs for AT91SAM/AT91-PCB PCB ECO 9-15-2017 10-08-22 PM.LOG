@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DRXD Pin=R55-2
+Removed Pin From Net: NetName=DTXD Pin=R56-2
+Removed Member From Class: ClassName=Peripheral Member=R55
+Removed Member From Class: ClassName=Peripheral Member=R56
+Added Pin To Net: NetName=DTXD Pin=U9-24
+Added Pin To Net: NetName=DRXD Pin=U9-25

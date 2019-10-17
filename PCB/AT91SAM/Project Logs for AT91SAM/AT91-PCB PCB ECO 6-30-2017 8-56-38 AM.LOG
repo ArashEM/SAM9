@@ -1,0 +1,4 @@
+Added Component: Designator=C98(C0805)
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C98-2
+Added Member To Class: ClassName=Network Member=Component C98 Cap

@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : E:\Research\ARM\ARM9\PCB_V3\AT91SAM\AT91-PCB.PcbDoc
+Date     : 9/23/2017
+Time     : 8:02:41 PM
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad J3-1(193.6mm,151.811mm)  Multi-Layer on Net NetJ3_1
+   Pad J3-2(187.4mm,151.811mm)  Multi-Layer on Net GND
+   Pad J3-3(190.4mm,146.811mm)  Multi-Layer on Net NetJ3_3
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Room Connector (Bounding Region = (353.187mm, 132.664mm, 633.552mm, 172.542mm) (InComponentClass('Connector'))
+Rule Violations :0
+
+Processing Rule : Room Core (Bounding Region = (353.187mm, 173.812mm, 443.001mm, 209.169mm) (InComponentClass('Core'))
+Rule Violations :0
+
+Processing Rule : Room Memory (Bounding Region = (353.187mm, 210.439mm, 501.675mm, 237.058mm) (InComponentClass('Memory'))
+Rule Violations :0
+
+Processing Rule : Room Network (Bounding Region = (353.187mm, 238.328mm, 562.204mm, 262.839mm) (InComponentClass('Network'))
+Rule Violations :0
+
+Processing Rule : Room Peripheral (Bounding Region = (353.187mm, 264.109mm, 593.065mm, 280.111mm) (InComponentClass('Peripheral'))
+Rule Violations :0
+
+Processing Rule : Room Power (Bounding Region = (353.187mm, 281.381mm, 667.258mm, 301.396mm) (InComponentClass('Power'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:04

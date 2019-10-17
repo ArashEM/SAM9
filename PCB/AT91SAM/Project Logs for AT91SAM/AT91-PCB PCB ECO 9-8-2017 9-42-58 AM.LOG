@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CASN Pin=U1-104
+Removed Pin From Net: NetName=RASN Pin=U1-105
+Added Component: Designator=R79(C0805)
+Added Component: Designator=R80(C0805)
+Added Pin To Net: NetName=CASN Pin=R79-2
+Added Pin To Net: NetName=RASN Pin=R80-2
+Added Pin To Net: NetName=NetR79_1 Pin=R79-1
+Added Pin To Net: NetName=NetR79_1 Pin=U1-104
+Added Net: Name=NetR79_1
+Added Pin To Net: NetName=NetR80_1 Pin=R80-1
+Added Pin To Net: NetName=NetR80_1 Pin=U1-105
+Added Net: Name=NetR80_1
+Added Member To Class: ClassName=Core Member=Component R79 Res Semi
+Added Member To Class: ClassName=Core Member=Component R80 Res Semi

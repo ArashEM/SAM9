@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Rx Member=ETX0
+Removed Member From Class: ClassName=Rx Member=ETX1
+Removed Member From Class: ClassName=Rx Member=ETXEN
+Added Member To Class: ClassName=Rx Member=Wire NetR13_1
+Added Member To Class: ClassName=Rx Member=Wire NetR13_2
+Added Member To Class: ClassName=Rx Member=Wire NetR13_4

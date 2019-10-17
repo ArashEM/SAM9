@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC_1V8 Pin=U1-41
+Removed Pin From Net: NetName=VCC_1V8 Pin=U1-43
+Change Component Comment : Designator=P17 Old Comment=WakeUp New Comment=Reset
+Added Component: Designator=R81(0603PKG)
+Added Component: Designator=R82(0603PKG)
+Added Component: Designator=R83(0603PKG)
+Added Component: Designator=R84(0603PKG)
+Added Pin To Net: NetName=GND Pin=R81-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R82-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R83-2
+Added Pin To Net: NetName=GND Pin=R84-2
+Added Pin To Net: NetName=NetR81_1 Pin=R81-1
+Added Pin To Net: NetName=NetR81_1 Pin=R82-1
+Added Pin To Net: NetName=NetR81_1 Pin=U1-41
+Added Net: Name=NetR81_1
+Added Pin To Net: NetName=NetR83_1 Pin=R83-1
+Added Pin To Net: NetName=NetR83_1 Pin=R84-1
+Added Pin To Net: NetName=NetR83_1 Pin=U1-43
+Added Net: Name=NetR83_1
+Added Member To Class: ClassName=Core Member=Component R81 Res Semi
+Added Member To Class: ClassName=Core Member=Component R82 Res Semi
+Added Member To Class: ClassName=Peripheral Member=Component R83 Res Semi
+Added Member To Class: ClassName=Peripheral Member=Component R84 Res Semi

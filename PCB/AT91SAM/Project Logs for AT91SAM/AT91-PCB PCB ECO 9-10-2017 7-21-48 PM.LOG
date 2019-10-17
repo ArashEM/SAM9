@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C23 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C24 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C25 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C26 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C27 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C28 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C31 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C32 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C33 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C100 Old Footprint=C0805 New Footprint=0603PKG
+Change Component Footprint: Designator=C101 Old Footprint=C0805 New Footprint=0603PKG
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Member To Class: ClassName=Network Member=Component C27 Cap

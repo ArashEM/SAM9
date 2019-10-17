@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BMS Pin=P13-1
+Removed Pin From Net: NetName=GND Pin=P13-2
+Removed Member From Class: ClassName=Connector Member=P13

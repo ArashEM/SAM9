@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C27 Old Footprint=C0805 New Footprint=0603PKG
+Added Component: Designator=C102(C0805)
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=LAN1-8
+Added Net: Name=NetC102_2
+Added Member To Class: ClassName=Network Member=Component C27 Cap
+Added Member To Class: ClassName=Network Member=Component C102 Cap

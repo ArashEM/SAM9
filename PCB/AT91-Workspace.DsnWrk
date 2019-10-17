@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=AT91SAM\AT91SAM.PrjPcb
+[Project2]
+ProjectPath=..\..\..\PCBLib\PCB3D_LIB\Connector_IntLib.LibPkg
+[Project3]
+ProjectPath=..\..\..\PCBLib\DE0_IntLibrary\DE0_IntLib.LibPkg

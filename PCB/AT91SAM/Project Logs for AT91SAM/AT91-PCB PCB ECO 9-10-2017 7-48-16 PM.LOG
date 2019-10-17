@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ETXEN Pin=R15-2
+Removed Pin From Net: NetName=ETX0 Pin=R18-2
+Removed Pin From Net: NetName=ETX1 Pin=R19-2
+Removed Member From Class: ClassName=Network Member=R15
+Removed Member From Class: ClassName=Network Member=R18
+Removed Member From Class: ClassName=Network Member=R19
+Added Component: Designator=R13(CAC-50P205X105-8M)
+Added Pin To Net: NetName=ETX0 Pin=R13-1
+Added Pin To Net: NetName=ETX1 Pin=R13-2
+Added Pin To Net: NetName=ETXEN Pin=R13-3
+Added Pin To Net: NetName=NetR13_6 Pin=R13-6
+Added Pin To Net: NetName=NetR13_6 Pin=U5-2
+Added Net: Name=NetR13_6
+Added Pin To Net: NetName=NetR13_7 Pin=R13-7
+Added Pin To Net: NetName=NetR13_7 Pin=U5-4
+Added Net: Name=NetR13_7
+Added Pin To Net: NetName=NetR13_8 Pin=R13-8
+Added Pin To Net: NetName=NetR13_8 Pin=U5-3
+Added Net: Name=NetR13_8

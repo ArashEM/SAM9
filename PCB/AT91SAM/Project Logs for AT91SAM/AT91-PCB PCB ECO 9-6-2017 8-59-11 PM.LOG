@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C31-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C32-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=L2-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R10-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R11-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R12-1
+Removed Pin From Net: NetName=ACT_LED Pin=R12-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R15-2
+Removed Pin From Net: NetName=EMDINTR Pin=R16-1
+Removed Pin From Net: NetName=ERX0 Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=ERX1 Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=ERXER Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=ERXDV Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R21-2
+Removed Pin From Net: NetName=TX_P Pin=U5-3
+Removed Pin From Net: NetName=TX_N Pin=U5-4
+Removed Pin From Net: NetName=RX_P Pin=U5-7
+Removed Pin From Net: NetName=RX_N Pin=U5-8
+Removed Pin From Net: NetName=GND Pin=U5-10
+Removed Pin From Net: NetName=ACT_LED Pin=U5-13
+Removed Pin From Net: NetName=ETX1 Pin=U5-19
+Removed Pin From Net: NetName=ETX0 Pin=U5-20
+Removed Pin From Net: NetName=ETXEN Pin=U5-21
+Removed Pin From Net: NetName=VCC_3V3 Pin=U5-23
+Removed Pin From Net: NetName=EMDC Pin=U5-24
+Removed Pin From Net: NetName=EMDIO Pin=U5-25
+Removed Pin From Net: NetName=ERX0 Pin=U5-26
+Removed Pin From Net: NetName=ERX1 Pin=U5-27
+Removed Pin From Net: NetName=VCC_3V3 Pin=U5-30
+Removed Pin From Net: NetName=VCC_3V3 Pin=U5-31
+Removed Pin From Net: NetName=EMDINTR Pin=U5-32
+Removed Pin From Net: NetName=GND Pin=U5-33
+Removed Pin From Net: NetName=NetR15_1 Pin=U5-36
+Removed Pin From Net: NetName=ERXDV Pin=U5-37
+Removed Pin From Net: NetName=ERXER Pin=U5-38
+Removed Pin From Net: NetName=GND Pin=U5-39
+Removed Pin From Net: NetName=NRST Pin=U5-40
+Removed Pin From Net: NetName=VCC_3V3 Pin=U5-41
+Removed Pin From Net: NetName=ETXCK Pin=U5-42
+Removed Pin From Net: NetName=GND Pin=U5-44
+Removed Pin From Net: NetName=NetR22_2 Pin=U5-48
+Removed Pin From Net: NetName=ETXCK Pin=U6-3
+Removed Member From Class: ClassName=Network Member=J1
+Removed Member From Class: ClassName=Network Member=L1
+Removed Member From Class: ClassName=Network Member=L2
+Change Component DesignItemId : Designator=U5 Old DesignItemId=10/100 ethernet phy layer New DesignItemId=DP83848C
+Change Component DesignItemId : Designator=C29 Old DesignItemId=Cap New DesignItemId=Cap Pol3
+Change Component DesignItemId : Designator=C30 Old DesignItemId=Cap New DesignItemId=Cap Pol3
+Change Component Footprint: Designator=C29 Old Footprint=C0805 New Footprint=1812
+Change Component Footprint: Designator=C30 Old Footprint=C0805 New Footprint=1812
+Change Component Comment : Designator=C29 Old Comment=Cap New Comment=Cap Pol3
+Change Component Comment : Designator=C30 Old Comment=Cap New Comment=Cap Pol3
+Change Component Comment : Designator=U5 Old Comment=DM9161 New Comment=DP83848C
+Change Component Description : Designator=U5 Old Description=PHY New Description=
+Change Component Library : Designator=U5 Old Library=DE0_IntLib_Schem.SchLib New Library=Connector_IntLib.IntLib
+Added Component: Designator=C27(C0805)
+Added Component: Designator=C99(1812)
+Added Component: Designator=C100(C0805)
+Added Component: Designator=C101(C0805)
+Added Component: Designator=R67(C0805)
+Added Component: Designator=R68(C0805)
+Added Component: Designator=R69(C0805)
+Added Component: Designator=R70(C0805)
+Added Component: Designator=R71(C0805)
+Added Component: Designator=R72(C0805)
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C99-1
+Added Pin To Net: NetName=GND Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C101-2
+Added Pin To Net: NetName=VCC_3V3 Pin=LAN1-4
+Added Pin To Net: NetName=VCC_3V3 Pin=LAN1-5
+Added Pin To Net: NetName=ACT_LED Pin=R11-2
+Added Pin To Net: NetName=ERXDV Pin=R12-1
+Added Pin To Net: NetName=ETXEN Pin=R15-2
+Added Pin To Net: NetName=EMDC Pin=R16-1
+Added Pin To Net: NetName=ETX0 Pin=R18-2
+Added Pin To Net: NetName=ETX1 Pin=R19-2
+Added Pin To Net: NetName=ERX0 Pin=R20-2
+Added Pin To Net: NetName=ERX1 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R67-2
+Added Pin To Net: NetName=ERXER Pin=R68-2
+Added Pin To Net: NetName=ETXCK Pin=R69-1
+Added Pin To Net: NetName=ETXCK Pin=R70-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R71-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R72-1
+Added Pin To Net: NetName=NetR15_1 Pin=U5-2
+Added Pin To Net: NetName=EMDINTR Pin=U5-7
+Added Pin To Net: NetName=TX_P Pin=U5-13
+Added Pin To Net: NetName=TX_N Pin=U5-14
+Added Pin To Net: NetName=RX_P Pin=U5-16
+Added Pin To Net: NetName=RX_N Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U5-19
+Added Pin To Net: NetName=VCC_3V3 Pin=U5-22
+Added Pin To Net: NetName=NetR22_2 Pin=U5-24
+Added Pin To Net: NetName=NRST Pin=U5-29
+Added Pin To Net: NetName=EMDIO Pin=U5-30
+Added Pin To Net: NetName=EMDC Pin=U5-31
+Added Pin To Net: NetName=VCC_3V3 Pin=U5-32
+Added Pin To Net: NetName=GND Pin=U5-35
+Added Pin To Net: NetName=GND Pin=U5-36
+Added Pin To Net: NetName=GND Pin=U5-47
+Added Pin To Net: NetName=VCC_3V3 Pin=U5-48
+Added Pin To Net: NetName=LINK_LED Pin=LAN1-10
+Added Pin To Net: NetName=LINK_LED Pin=R10-2
+Added Net: Name=LINK_LED
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=LAN1-8
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=C31-2
+Added Pin To Net: NetName=NetC29_1 Pin=C32-2
+Added Pin To Net: NetName=NetC29_1 Pin=C33-2
+Added Pin To Net: NetName=NetC29_1 Pin=U5-18
+Added Pin To Net: NetName=NetC29_1 Pin=U5-23
+Added Pin To Net: NetName=NetC29_1 Pin=U5-37
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U5-28
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U5-26
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U5-40
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U5-3
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U5-4
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U5-43
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U5-44
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR67_1 Pin=R67-1
+Added Pin To Net: NetName=NetR67_1 Pin=U5-39
+Added Net: Name=NetR67_1
+Added Pin To Net: NetName=NetR68_1 Pin=R68-1
+Added Pin To Net: NetName=NetR68_1 Pin=U5-41
+Added Net: Name=NetR68_1
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=U5-25
+Added Net: Name=NetR70_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=U5-21
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=NetR72_2 Pin=U5-20
+Added Net: Name=NetR72_2
+Added Pin To Net: NetName=OSC_50 Pin=R69-2
+Added Pin To Net: NetName=OSC_50 Pin=U5-34
+Added Pin To Net: NetName=OSC_50 Pin=U6-3
+Added Net: Name=OSC_50
+Added Member To Class: ClassName=Network Member=Component C99 Cap Pol3
+Added Member To Class: ClassName=Network Member=Component C100 Cap
+Added Member To Class: ClassName=Network Member=Component C101 Cap
+Added Member To Class: ClassName=Network Member=Component R67 Res Semi
+Added Member To Class: ClassName=Network Member=Component R68 Res Semi
+Added Member To Class: ClassName=Network Member=Component R69 Res Semi
+Added Member To Class: ClassName=Network Member=Component R70 Res Semi
+Added Member To Class: ClassName=Network Member=Component R71 Res Semi
+Added Member To Class: ClassName=Network Member=Component R72 Res Semi

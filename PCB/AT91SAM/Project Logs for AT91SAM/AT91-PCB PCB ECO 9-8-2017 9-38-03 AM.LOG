@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SDCS Pin=R76-5
+Removed Pin From Net: NetName=NBS1 Pin=R76-6
+Removed Pin From Net: NetName=NBS3 Pin=R76-7
+Removed Pin From Net: NetName=SDA10 Pin=R76-8
+Added Pin To Net: NetName=SDA10 Pin=R76-1
+Added Pin To Net: NetName=NBS3 Pin=R76-2
+Added Pin To Net: NetName=NBS1 Pin=R76-3
+Added Pin To Net: NetName=SDCS Pin=R76-4
+Added Pin To Net: NetName=NetR76_5 Pin=R76-5
+Added Pin To Net: NetName=NetR76_5 Pin=U1-103
+Added Net: Name=NetR76_5
+Added Pin To Net: NetName=NetR76_6 Pin=R76-6
+Added Pin To Net: NetName=NetR76_6 Pin=U1-102
+Added Net: Name=NetR76_6
+Added Pin To Net: NetName=NetR76_7 Pin=R76-7
+Added Pin To Net: NetName=NetR76_7 Pin=U1-101
+Added Net: Name=NetR76_7
+Added Pin To Net: NetName=NetR76_8 Pin=R76-8
+Added Pin To Net: NetName=NetR76_8 Pin=U1-100
+Added Net: Name=NetR76_8

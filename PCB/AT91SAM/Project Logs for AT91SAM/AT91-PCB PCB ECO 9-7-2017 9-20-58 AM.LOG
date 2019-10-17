@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C27-2
+Added Component: Designator=C27(C0805)
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C27-2

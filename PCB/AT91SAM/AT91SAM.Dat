@@ -1,0 +1,69 @@
+﻿Field=Designator~String~Designator~124|Field=Quantity~Integer~Quantity~68|Field=Value~String~Value~104|Field=Footprint~String~Footprint~188|Field=Comment~String~Comment~266|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AT91SAM.PrjPcb|ReportField=ProjectFullPath~E:\Research\ARM\ARM9\PCB\AT91SAM\AT91SAM.PrjPcb|ReportField=Title~Bill of Materials For Project [AT91SAM.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~209|ReportField=ReportTime~7:13:15 PM|ReportField=ReportDate~7/5/2017|ReportField=ReportDateTime~7/5/2017 7:13:15 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/5/2017|ReportField=CurrentTime~7:10:44 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Research\ARM\ARM9\PCB\AT91SAM\Connector.SchDoc|ReportField=DocumentName~Connector.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/29/2017|ReportField=Organization~|ReportField=ProjectName~AT91SAM.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AT91SAM.PrjPcb|ReportField=DataSourceFullPath~E:\Research\ARM\ARM9\PCB\AT91SAM\AT91SAM.PrjPcb
+Y3|1|6Mhz|SMD_Crystal|XTAL
+Y2|1|32.768Khz|R38|XTAL
+Y1|1|18.432Mhz|SMD_Crystal|XTAL
+U13|1||LF33-TO-252|AMS1117-1v8
+U12|1||D2PAK(5PIN)|MIC29302
+U11|1||SOT223|AMS1117-1v8
+U10|1||SSOP8|AT24DB321
+U9|1||LQFP-32_N|FT232BL
+U8|1||SSOP8|AT24C512
+U7|1||SSOP8|LM75CIMMX-5/NOPB
+U6|1||Crystal5x7|Oscillator
+U5|1||LQFP48|DM9161
+U3, U4|2||TSOP54_Pin|SDRAM
+U2|1||TSSOP-48|NAND FLASH
+U1|1||SQFP50P3122X3122X245-208N|AT91SAM9260-QU
+SD1|1||MicroSD socket|SD card holder
+R57|1|10k|C0805|Res1
+R52, R53, R54|3|100K|C0805|Res1
+R49|1|47K|C0805|Res Semi
+R48|1|27K|C0805|Res Semi
+R46, R47, R50, R51|4|39R|C0805|Res Semi
+R44, R45|2|15K|C0805|Res Semi
+R38|1|180R|C0805|Res Semi
+R37|1|300R|C0805|Res Semi
+R33, R34|2|27R|C0805|Res Semi
+R31, R55, R56, R58|4|0|C0805|Res Semi
+R23, R24, R25, R26, R27, R36|6|330|C0805|Res Semi
+R22|1|6.8K|C0805|Res Semi
+R16, R17, R35|3|1.5K|C0805|Res Semi
+R10, R11, R12, R15, R18, R19, R20, R21, R28, R29, R30, R32, R39, R40, R41, R42, R43|17|10K|C0805|Res Semi
+R6, R7, R8, R9|4|50|C0805|Res Semi
+R2, R13, R14|3|1K|C0805|Res Semi
+R1, R3, R4, R5|4|470K|C0805|Res Semi
+P18, P19|2||HDR1X2|Key
+P16, P17|2||HDR1X2|WakeUp
+P14|1||Mini USB|USB Serial
+P13|1||HDR1X2|Header 2
+P12|1||XH_5pin|Analog
+P9, P10, P11|3||XH_4pin|UART
+P8|1||Mini USB|USB Device
+P7|1||USB_Female|USB Host
+P6|1||HDR2X13|Rpi
+P5|1||IDC_2X10|JTAG
+P4|1||HDR1X3|BU-SEL
+P3|1||HDR2X4|PWR-SEL
+P1, P15|2||HDR1X2|WP
+LAN1|1||RJ45|Ethernet RJ45
+L5|1|10mH|C0805|Inductor
+L4|1|10mH|C1206|Ferrite Bead
+L1, L2, L3, L6, L7|5|10mH|C0805|Ferrite Bead
+J3|1||DC_jack|PWR2.5
+J1, J2|2||PIN1|Socket
+D1, D2, D3, D4, D5, D6|6||SMD_LED_1206|LED0
+C92, C93|2|15pF|C0805|Cap
+C85, C86|2|47pF|C0805|Cap
+C84, C89|2|1uF|C0805|Cap
+C77|1|100nF|C1206|Cap
+C75, C80|2|22uF|C1206|Cap
+C74, C78, C82|3|47uf|Capacitor|Capacitor
+C38, C41|2|27pF|C0805|Cap
+C36|1|33nF|C0805|Cap
+C29, C30, C44, C45, C46, C58, C59, C70, C73|9|10uF|C0805|Cap
+C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C31, C32, C33, C34, C35, C37, C39, C40, C42, C43, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C60, C61, C62, C63, C64, C65, C66, C67, C68, C69, C71, C72, C76, C79, C81, C83, C87, C88, C90, C91, C94, C95, C96, C97|67|100nF|C0805|Cap
+C5, C6|2|20pF|C0805|Cap
+C3, C4|2|10pF|C0805|Cap
+C2, C98|2|10nF|C0805|Cap
+C1|1|1nF|C0805|Cap
+BT1|1||BAT-2|Battery

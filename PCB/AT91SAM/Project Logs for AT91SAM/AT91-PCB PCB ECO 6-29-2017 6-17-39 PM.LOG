@@ -1,0 +1,4 @@
+Added Component: Designator=R57(C0805)
+Added Pin To Net: NetName=VCC_3V3 Pin=R57-1
+Added Pin To Net: NetName=DATAFLASH_CSN Pin=R57-2
+Added Member To Class: ClassName=Peripheral Member=Component R57 Res1

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=EMDIO Pin=U1-205
+Removed Pin From Net: NetName=EMDC Pin=U1-206
+Change Component DesignItemId : Designator=R58 Old DesignItemId=Res1 New DesignItemId=Res Semi
+Change Component Comment : Designator=R58 Old Comment=Res1 New Comment=Res Semi
+Change Component Description : Designator=R58 Old Description=Resistor New Description=Semiconductor Resistor
+Added Pin To Net: NetName=EMDC Pin=U1-205
+Added Pin To Net: NetName=EMDIO Pin=U1-206

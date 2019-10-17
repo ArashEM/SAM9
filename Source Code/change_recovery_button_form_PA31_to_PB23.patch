@@ -1,0 +1,37 @@
+diff --git a/board/at91sam9260ek/at91sam9260ek.c b/board/at91sam9260ek/at91sam9260ek.c
+index 0a7a034..d2bca8a 100644
+--- a/board/at91sam9260ek/at91sam9260ek.c
++++ b/board/at91sam9260ek/at91sam9260ek.c
+@@ -90,13 +90,13 @@ static void sdramc_init(void)
+ static void recovery_buttons_hw_init(void)
+ {
+ 	/* Configure recovery button PINs */
+-	/* {"RECOVERY_BUTTON", AT91C_PIN_PA(31), 0, PIO_PULLUP, PIO_INPUT} */
+-	writel((0x01 << 31), AT91C_BASE_PIOA + PIO_IDR);
+-	writel((0x01 << 31), AT91C_BASE_PIOA + PIO_PPUER);
+-	writel((0x01 << 31), AT91C_BASE_PIOA + PIO_ODR);
+-	writel((0x01 << 31), AT91C_BASE_PIOA + PIO_PER);
++	/* {"RECOVERY_BUTTON", AT91C_PIN_PB(23), 0, PIO_PULLUP, PIO_INPUT} */
++	writel((0x01 << 23), AT91C_BASE_PIOB + PIO_IDR);
++	writel((0x01 << 23), AT91C_BASE_PIOB + PIO_PPUER);
++	writel((0x01 << 23), AT91C_BASE_PIOB + PIO_ODR);
++	writel((0x01 << 23), AT91C_BASE_PIOB + PIO_PER);
+ 
+-	pmc_enable_periph_clock(AT91C_ID_PIOA);
++	pmc_enable_periph_clock(AT91C_ID_PIOB);
+ }
+ #endif /* #if defined(CONFIG_NANDFLASH_RECOVERY) || defined(CONFIG_DATAFLASH_RECOVERY) */
+ 
+diff --git a/board/at91sam9260ek/at91sam9260ek.h b/board/at91sam9260ek/at91sam9260ek.h
+index 164df29..c64cdea 100644
+--- a/board/at91sam9260ek/at91sam9260ek.h
++++ b/board/at91sam9260ek/at91sam9260ek.h
+@@ -74,7 +74,7 @@
+ /*
+  * Recovery Button
+  */
+-#define CONFIG_SYS_RECOVERY_BUTTON_PIN  AT91C_PIN_PA(31)
++#define CONFIG_SYS_RECOVERY_BUTTON_PIN  AT91C_PIN_PB(23)
+ #define RECOVERY_BUTTON_NAME            "BP4"
+ 
+ #endif /* __AT91SAM9260EK_H__ */
